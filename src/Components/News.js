@@ -12,40 +12,52 @@ export default function News(props) {
   const [page, setPage] = useState(1);
   const [totalResults, setTotalResults] = useState(0);
 
-  useEffect(() => {
-    setLoading(true);
-    const apiUrl = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=1&pageSize=${props.pageSize}`;
-    fetch(apiUrl)
-      .then((response) => response.json())
-      .then((data) => {
-        setArticles(data.articles);
-        setTotalResults(data.totalResults);
-        setLoading(false);
-      })
-      .catch((error) => {
-        console.error('Error fetching data:', error);
-        setLoading(false);
-      });
-    document.title = `NewsMate-${props.category}`;
-  }, [props.country, props.category, props.apiKey, props.pageSize]);
+useEffect(() => {
+  setLoading(true);
+  const apiUrl = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=1&pageSize=${props.pageSize}`;
+  
+  fetch(apiUrl)
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+      return response.json();
+    })
+    .then((data) => {
+      setArticles(data.articles);
+      setTotalResults(data.totalResults);
+      setLoading(false);
+    })
+    .catch((error) => {
+      console.error('Error fetching data:', error);
+      setLoading(false);
+    });
+  
+  document.title = `NewsMate-${props.category}`;
+}, [props.country, props.category, props.apiKey, props.pageSize]);
+
+const fetchMoreData = () => {
+  const nextPage = page + 1;
+  const apiUrl = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${nextPage}&pageSize=${props.pageSize}`;
+  
+  fetch(apiUrl)
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+      return response.json();
+    })
+    .then((data) => {
+      setArticles((prevArticles) => [...prevArticles, ...data.articles]);
+      setTotalResults(data.totalResults);
+      setPage(nextPage);
+    })
+    .catch((error) => {
+      console.error('Error fetching more data:', error);
+    });
+};
 
 
-
-  const fetchMoreData = () => {
-    const apiUrl = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page + 1}&pageSize=${props.pageSize}`;
-    setPage(page + 1);
-    fetch(apiUrl)
-      .then((response) => response.json())
-      .then((data) => {
-        const newArticles = articles.concat(data.articles);
-        setArticles(newArticles);
-        setPage(page + 1);
-      })
-      .catch((error) => {
-        console.error('Error fetching data:', error);
-      });
-  };
- 
 
   return (
     <InfiniteScroll
