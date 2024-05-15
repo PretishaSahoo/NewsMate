@@ -1,0 +1,656 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cureus.com"
+        },
+        "author": "Cureus",
+        "title": "Radicular Cyst: The Sequelae of Untreated Caries - Cureus",
+        "description": null,
+        "url": "https://www.cureus.com/articles/240276-radicular-cyst-the-sequelae-of-untreated-caries?score_article=true",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T10:40:02Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "India Today"
+        },
+        "author": "India Today Health Desk",
+        "title": "Scientists identify 12 new breast cancer genes in women of African ancestry - India Today",
+        "description": "Previous studies on genetic mutations linked to breast cancer have mostly focused on women of European ancestry New research has identified twelve genes linked to breast cancer in women of African ancestry",
+        "url": "https://www.indiatoday.in/health/story/scientists-identify-twelve-new-breast-cancer-genes-women-african-ancestry-2538986-2024-05-14",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/a-young-woman-is-doing-a-breast-ultrasound-for-preventive-breast-cancer-care-142105218-16x9_0.jpg?VersionId=DwKj7uUDQKLJO0WQzRFdMnrUXfuyo7pt",
+        "publishedAt": "2024-05-14T10:31:59Z",
+        "content": "A recent study has identified twelve genes linked to breast cancer in women of African ancestry.\r\nPublished in Nature Genetics, this research could help better predict breast cancer risk for these wo… [+2424 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Nivedita",
+        "title": "Chronic fatigue syndrome symptoms: Watch out for depression, insomnia, bloating - Moneycontrol",
+        "description": "Chronic fatigue syndrome: Is also known as myalgic encephalomyelitis (ME) or systemic exertion intolerance disease. Let's understand this syndrome and look for their symptoms.",
+        "url": "https://www.moneycontrol.com/health-and-fitness/chronic-fatigue-syndrome-symptoms-watch-out-for-depression-insomnia-bloating-article-12721750.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/05/20240514091108_Chronic-Fatigue-Syndrome.png",
+        "publishedAt": "2024-05-14T09:33:34Z",
+        "content": "Chronic fatigue syndrome (CFS) is a complex and debilitating disorder characterised primarily by fatigue that is not alleviated by rest and persists for more than six months. While fatigue is the hal… [+3343 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "etimes.in",
+        "title": "Flirt Covid Symptoms: Are FLiRT, the new COVID variants more infectious? Symptoms to take note of - The Times of India",
+        "description": "​KP.2, which is part of the FLiRT variants, is said to be highly transmissible in nature. However, doctors have said that it is not virulent. There is no reason to believe that the FLiRT group of variants being reported are more virulent than the existing var…",
+        "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/are-flirt-covid-variants-more-infectious/photostory/110108191.cms",
+        "urlToImage": "https://static.toiimg.com/photo/110108216.cms",
+        "publishedAt": "2024-05-14T09:30:00Z",
+        "content": "KP.2, which is part of the FLiRT variants, is said to be highly transmissible in nature. However, doctors have said that it is not virulent. \"There is no reason to believe that the FLiRT group of var… [+485 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Indian Express"
+        },
+        "author": "The Indian Express",
+        "title": "How can blood sugar levels rise silently? Look for answers in your biscuit, salad dressing, mayonnaise and dips - The Indian Express",
+        "description": null,
+        "url": "https://indianexpress.com/article/health-wellness/blood-sugar-lifestyle-checks-diabetes-9327799/",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T08:59:07Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Moneycontrol",
+        "title": "7 benefits of eating chia seeds - Moneycontrol",
+        "description": "Chia seeds are packed with antioxidants and several essential nutrients.",
+        "url": "https://www.moneycontrol.com/web-stories/7-benefits-of-eating-chia-seeds-2082290.html",
+        "urlToImage": "https://images.news18.com/webstories/uploads/2024/05/cropped-sebastian-leon-prado-B2JFNoufa-c-unsplash-2024-05-da7d3cbdd4ea2bc5c5d4ccff7abca691-scaled-1.jpg",
+        "publishedAt": "2024-05-14T08:53:42Z",
+        "content": "Chia seeds are an excellent plant-based source of calcium, magnesium, and phosphorus, all of which are crucial for maintaining strong bones"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Statesman",
+        "title": "Study finds how yoga linked with symptom improvement in patients with heart failure - The Statesman",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy50aGVzdGF0ZXNtYW4uY29tL2xpZmVzdHlsZS9oZWFsdGgvc3R1ZHktZmluZHMtaG93LXlvZ2EtbGlua2VkLXdpdGgtc3ltcHRvbS1pbXByb3ZlbWVudC1pbi1wYXRpZW50cy13aXRoLWhlYXJ0LWZhaWx1cmUtMTUwMzMwMDEyNy5odG1s0gGVAWh0dHBzOi8vd3d3LnRoZXN0YXRlc21hbi5jb20vbGlmZXN0eWxlL2hlYWx0aC9zdHVkeS1maW5kcy1ob3cteW9nYS1saW5rZWQtd2l0aC1zeW1wdG9tLWltcHJvdmVtZW50LWluLXBhdGllbnRzLXdpdGgtaGVhcnQtZmFpbHVyZS0xNTAzMzAwMTI3Lmh0bWwvYW1w?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T08:50:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "India Today"
+        },
+        "author": "Dristi Sharma",
+        "title": "Even your occasional glass of alcohol is not that great for you - India Today",
+        "description": "The World Health Organization labels alcohol as a toxic psychoactive and dependence-producing substance as well as a Group 1 carcinogen",
+        "url": "https://www.indiatoday.in/lifestyle/wellness/story/even-your-occasional-glass-of-alcohol-is-not-that-great-for-you-2538614-2024-05-14",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/the-american-heart-association-previously-said-that-moderate-alcohol-consumption-can-help-protect-yo-144152893-16x9_0.jpg?VersionId=Ob9wLeNIQivVyxU8.Ek1XphmhFoMqZyz",
+        "publishedAt": "2024-05-14T08:45:03Z",
+        "content": "“It’s just a glass of wine.”\r\n“I only drink on special occasions.”\r\n“I only drink during weekends.”\r\nIf you're here, it kind of implies that you, too, have indulged in the occasional glass of liquor … [+6190 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Why New Dietary Guidelines In India Have Advised Avoiding Protein Supplements - NDTV",
+        "description": "Indian Council of Medical Research and National Institute of Nutrition, last week, released 17 dietary guidelines to prevent nutrient deficiencies, as well as address the rising risk of obesity, diabetes, and cardiovascular diseases in India.",
+        "url": "https://www.ndtv.com/india-news/why-new-dietary-guidelines-in-india-have-advised-avoiding-protein-supplements-5659689",
+        "urlToImage": "https://c.ndtvimg.com/2024-05/5n7js9ks_protein-supplements-protein-shake-generic-unsplash_625x300_09_May_24.jpeg?ver-20240506.08",
+        "publishedAt": "2024-05-14T08:25:21Z",
+        "content": "ICMR has pressed for avoiding protein supplements for building body mass. (Representational)\r\nNew Delhi: Protein supplements, which come with added sugars and additives, may harm the kidneys and bone… [+2749 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Moneycontrol",
+        "title": "9 scientifically-proven health benefits of olive oil - Moneycontrol",
+        "description": "Health benefits of olive oil: A staple in Mediterranean cuisine, olive oil comes with many health benefits, including keeping heart healthy, reducing inflammation, and protect against chronic diseases",
+        "url": "https://www.moneycontrol.com/health-and-fitness/9-scientifically-proven-health-benefits-of-olive-oil-how-to-balance-blood-sugar-keep-heart-healthy-keep-bones-strong-help-in-weight-loss-visual-story-2080218.html",
+        "urlToImage": "https://images.news18.com/webstories/uploads/2024/05/Health-benefits-of-olive-oil-11-2024-05-061ee4c392be041a1ad5a40a2f72a7b2.jpg",
+        "publishedAt": "2024-05-14T08:15:03Z",
+        "content": "Extra virgin olive oil is full of polyphenols, such as hydroxytyrosol and oleocanthal, which guard against oxidative stress, an instigator of various chronic diseases ranging from heart disease to de… [+5 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Indian Express"
+        },
+        "author": "The Indian Express",
+        "title": "MERS Covid resurfaces in Saudi Arabia; should you be worried? - The Indian Express",
+        "description": null,
+        "url": "https://indianexpress.com/article/lifestyle/health/mers-covid-cases-saudi-arabia-signs-symptoms-9325990/",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T07:55:33Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "All About India's NexCAR19 CAR-T Therapy & Robotic Surgeries | Medicine Box | N18V | CNBC TV18 - CNBC-TV18",
+        "description": "What is India’s indigenously produced CAR-T Therapy NexCAR19 & what are its uses? Dr Vijay V Haribhakti of Sir HN Reliance Foundation Hospital & Dr T Raja DM...",
+        "url": "https://www.youtube.com/watch?v=nEymdZbCd9Y",
+        "urlToImage": "https://i.ytimg.com/vi/nEymdZbCd9Y/maxresdefault.jpg",
+        "publishedAt": "2024-05-14T07:45:06Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Nivedita",
+        "title": "Cure for myopia in children: Try Ayurvedic solutions like netra basti, trataka and panchakarma - Moneycontrol",
+        "description": "Myopia in children:  A child with this disorder may have subtle symptoms, including squinting, headaches, and difficulty reading the board. Leaving myopia untreated can lead to more severe vision impairment and complications later in life. Here are the Ayurve…",
+        "url": "https://www.moneycontrol.com/health-and-fitness/cure-for-myopia-in-children-try-ayurvedic-solutions-like-netra-basti-trataka-and-panchakarma-article-12721641.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/05/20240514071342_eye-image.png",
+        "publishedAt": "2024-05-14T07:14:41Z",
+        "content": "The prevalence of myopia among Indian children has escalated markedly over the years, particularly in urban areas. From 4.44 percent in 1999, it surged to 21.15 percent in 2019, with projections indi… [+3564 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "WSJ",
+        "title": "The stress hormone isn’t all bad. What to know about your cortisol levels. | Mint - Mint",
+        "description": "A lot of what you’ve heard about cortisol is wrong.",
+        "url": "https://www.livemint.com/science/health/the-stress-hormone-isn-t-all-bad-what-to-know-about-your-cortisol-levels-11715669457063.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/14/1600x900/im-959605_1715669461233_1715669511317.jpg",
+        "publishedAt": "2024-05-14T07:12:04Z",
+        "content": "If youve noticed people talking about managing their cortisol lately, youre not alone.\r\nChatter about the stress hormone has surged. Doctors say patients are bringing it up more often, and Google sea… [+5914 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "PTI",
+        "title": "One jab of measles vaccine more likely to be ineffective in children born by C-section, study finds - Hindustan Times",
+        "description": "A study found that a single jab of the measles vaccine could be more likely to be ineffective in children born by C-section, compared to those born naturally.  | Health",
+        "url": "https://www.hindustantimes.com/lifestyle/health/one-jab-of-measles-vaccine-more-likely-to-be-ineffective-in-children-born-by-c-section-study-finds-101715669186720.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/05/14/1600x900/measles_c_section_babies_1715669854534_1715669854642.jpg",
+        "publishedAt": "2024-05-14T07:07:27Z",
+        "content": "A single jab of the double-dose measles vaccine could be up to 2.6 times more likely to be completely ineffective in children born by C-section, compared to those born naturally, new research has fou… [+2888 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Free Press Journal"
+        },
+        "author": "Rahul M",
+        "title": "International Kangaroo Care Awareness Day: How Important Is Skin-To-Skin Contact With Newborns? - Free Press Journal",
+        "description": "International Kangaroo Care Awareness Day: How Important Is Skin-To-Skin Contact With Newborns?",
+        "url": "https://www.freepressjournal.in/ampstories/lifestyle/international-kangaroo-care-awareness-day-how-important-is-skin-to-skin-contact-with-newborns",
+        "urlToImage": "https://media.assettype.com/freepressjournal/2024-05/adba5084-73e2-45a2-9e08-1d53bd6a544c/450a1eccc4574859aedd082543628d80.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2024-05-14T07:06:21Z",
+        "content": "Kangaroo care helps stabalise the baby's heart rate and body temperature. It decreases crying and stress. Babies sleep well and improve sleeping patterns. Also, because babies feel protected, their b… [+29 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Aadya+Jha",
+        "title": "10 harmless-looking animals that can cause Rabies - The Times of India",
+        "description": "It's important to remember that while these animals may appear harmless, they can still carry and transmit the rabies virus. Therefore, it's essential to take precautions when interacting with any animal, especially those that may be carrying rabies.",
+        "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/web-stories/10-harmless-looking-animals-that-can-cause-rabies/photostory/110085345.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-110085390,imgsize-976285,width-900,height-1200,resizemode-6/110085390.jpg",
+        "publishedAt": "2024-05-14T06:30:00Z",
+        "content": "Rabies is a deadly viral disease that affects only mammals, including humans. India is a hotspot for rabies, accounting for 36% of the world's rabies deaths, as per WHO. While many people are aware t… [+139 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Herzindagi.com"
+        },
+        "author": "Nitisha Sharma",
+        "title": "Top 6 Natural Ways To Get Thick And Long Hair - HerZindagi",
+        "description": "There are many natural ways to achieve thicker and healthy hair. You don't require any expensive treatments or products. Follow these tips for long and thick hair.",
+        "url": "https://www.herzindagi.com/web-stories/beauty/top-six-easy-ways-to-get-thicker-and-healthy-hair-naturally-ws-28328",
+        "urlToImage": "https://images.herzindagi.info/webstories/28328/1-1715664840.jpeg",
+        "publishedAt": "2024-05-14T06:30:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Nivedita",
+        "title": "Weight loss: 13 tips and tricks to lose weight without diet or exercise - Moneycontrol",
+        "description": "Weight loss tips: By focusing on dietary modifications, lifestyle changes, and other non-exercise approaches, individuals can still achieve their weight loss goals. Here are 13 proven techniques to lose weight without dieting or exercising.",
+        "url": "https://www.moneycontrol.com/health-and-fitness/weight-loss-13-tips-and-tricks-to-lose-weight-without-diet-or-exercise-article-12721593.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/05/20240514055819_Weight-loss.png",
+        "publishedAt": "2024-05-14T06:17:05Z",
+        "content": "Starting a weight loss journey can seem intimidating, especially for those who aren't keen on traditional exercise routines. However, it's important to recognise that exercise isn't the only path to … [+3850 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "News18"
+        },
+        "author": "News18",
+        "title": "7 Foods To Avoid For A Healthy Brain - News18",
+        "description": "Consumption of unhealthy food can harm cognitive function. Here are seven foods that you must avoid for a healthy brain.",
+        "url": "https://www.news18.com/web-stories/lifestyle/7-foods-to-avoid-for-a-healthy-brain-2080903/",
+        "urlToImage": "https://images.news18.com/webstories/uploads/2024/05/cropped-istockphoto-1072525708-612x612-2024-05-2f699ba82d6545e1956ca3355ba075be.jpg",
+        "publishedAt": "2024-05-14T05:56:17Z",
+        "content": "Highly processed foods like chips, sweets, instant noodles, microwave popcorn, store-bought sauces, and ready-made meals tend to be high in sugar, added fats, and salt. Their excessive consumption ca… [+53 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Indian Express"
+        },
+        "author": "The Indian Express",
+        "title": "Landmark 30-year study links ultra-processed foods to higher risk of early death: Know why this is concerning for India - The Indian Express",
+        "description": null,
+        "url": "https://indianexpress.com/article/lifestyle/health/ultra-processed-foods-early-death-risk-indians-9325557/",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T05:03:35Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "Parmita Uniyal",
+        "title": "Spicy snacks to tea and coffee; 5 foods to avoid this summer - Hindustan Times",
+        "description": "There are certain foods that are naturally cool and hydrating, while some can increase our body temperature. Here're foods that you must avoid this summer.",
+        "url": "https://www.hindustantimes.com/photos/lifestyle/spicy-snacks-to-tea-and-coffee-5-foods-to-avoid-this-summer-101715662236645.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/05/14/1600x900/summer_unfriendly_foods_1715662373701_1715662412346.jpg",
+        "publishedAt": "2024-05-14T05:00:08Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Healthshots.com"
+        },
+        "author": "Healthshots",
+        "title": "5 signs of high cholesterol levels - Health shots",
+        "description": "While high cholesterol can wreak havoc on your health, it is a little tricky to detect it as there are hardly any major symptoms. But still, these are 5 noticeable signs of high cholesterol.",
+        "url": "https://www.healthshots.com/web-stories/5-signs-of-high-cholesterol-levels/",
+        "urlToImage": "https://images.healthshots.com/healthshots/en/uploads/2024/05/13205346/high-choleterol.jpg",
+        "publishedAt": "2024-05-14T04:30:00Z",
+        "content": "While high cholesterol can wreak havoc on your health, it is a little tricky to detect it as there are hardly any major symptoms. But still, these 5 noticeable signs could indicate your cholesterol l… [+1313 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Nivedita",
+        "title": "Benefits of slow running: Safe and effective jogging for better health - Moneycontrol",
+        "description": "Benefits of slow running: It is commonly known as jogging, is a low-impact aerobic exercise performed at a comfortable pace, typically slower than traditional running. It involves a rhythmic and continuous motion that elevates the heart rate and promotes card…",
+        "url": "https://www.moneycontrol.com/health-and-fitness/benefits-of-slow-running-safe-and-effective-jogging-for-better-health-article-12720807.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/05/20240513080744_Jogging-770x433.png",
+        "publishedAt": "2024-05-14T04:10:44Z",
+        "content": "Slow running offers numerous health benefits, including improved heart health, weight management, stress reduction, muscle tone, and bone strength. With its gentle nature, slow running is accessible … [+2930 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Indian Express"
+        },
+        "author": "The Indian Express",
+        "title": "Fresh vs pre-shaved coconut water: Which is better (and why)? - The Indian Express",
+        "description": null,
+        "url": "https://indianexpress.com/article/lifestyle/food-wine/fresh-vs-pre-shaved-coconut-water-packaged-risks-experts-9319033/",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T04:01:46Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Indian Express"
+        },
+        "author": "The Indian Express",
+        "title": "Raisin water is the newest nutritional powerhouse you must add to your diet - The Indian Express",
+        "description": null,
+        "url": "https://indianexpress.com/article/lifestyle/food-wine/raisin-water-superfood-health-benefits-9311421/",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T04:00:17Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Deccan Herald"
+        },
+        "author": "International New York Times",
+        "title": "Patient dies weeks after kidney transplant from genetically modified pig - Deccan Herald",
+        "description": null,
+        "url": "https://www.deccanherald.com/science/patient-dies-weeks-after-kidney-transplant-from-genetically-modified-pig-3-3021331",
+        "urlToImage": "https://images.deccanherald.com/deccanherald%2F2023-09%2F803e6c52-d7a9-4795-ba7e-d4712d6e0bfe%2Fhospitalised_istock.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+        "publishedAt": "2024-05-14T03:51:40Z",
+        "content": "His surgery, which lasted four hours, was a medical milestone. For decades, proponents of so-called xenotransplantation have proposed replacing ailing human organs with those from animals. The main p… [+887 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Nivedita",
+        "title": "Weight gain, kidney damage and sexual health are harmful effects of excess sugar - Moneycontrol",
+        "description": "Healthcare tips: Overconsumption of sugar is strongly associated with an increased risk of developing type 2 diabetes, as it can lead to insulin resistance, impairing the body's ability to regulate blood sugar levels effectively. Here are the harmful impacts …",
+        "url": "https://www.moneycontrol.com/health-and-fitness/weight-gain-kidney-damage-and-sexual-health-are-harmful-effects-of-excess-sugar-article-12720974.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/05/20240513102710_Sugar-770x433.png",
+        "publishedAt": "2024-05-14T03:45:36Z",
+        "content": "Excessive sugar consumption is harmful because it can lead to a myriad of health problems. Firstly, it contributes to weight gain and obesity as sugary foods and drinks are high in calories but low i… [+2445 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cureus.com"
+        },
+        "author": "Cureus",
+        "title": "Preoperative Assessment for Surgical Accuracy in Maxillofacial Surgery Cases Using Stereolithographic Models - Cureus",
+        "description": null,
+        "url": "https://www.cureus.com/articles/249769-preoperative-assessment-for-surgical-accuracy-in-maxillofacial-surgery-cases-using-stereolithographic-models?score_article=true",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T03:29:28Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Indian Express"
+        },
+        "author": "Express Web Desk",
+        "title": "World Hypertension Day 2024: Know the date, origin, theme, significance and more - The Indian Express",
+        "description": "World Hypertension Day 2024 Theme, History, and Significance: This day is dedicated to promoting the prevention, detection, and control of high blood pressure, with a focus on accurate blood pressure measurement methods and effective management strategies.",
+        "url": "https://indianexpress.com/article/when-is/world-hypertension-day-2024-know-the-date-origin-theme-significance-and-more-9325623/",
+        "urlToImage": "https://images.indianexpress.com/2024/05/Untitled-design-1-13.jpg",
+        "publishedAt": "2024-05-14T03:25:54Z",
+        "content": "World Hypertension Day 2024 Date and History: Observed annually on May 17th, World Hypertension Day seeks to increase awareness about hypertension and promote prevention, detection, and control of hi… [+2699 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Moushumi Mahanta",
+        "title": "Diabetes management: 9 keys to maintaining health and vitality - Mint",
+        "description": "Diabetes management: 9 keys to maintaining health and vitality",
+        "url": "https://www.livemint.com/web-stories/diabetes-management-9-keys-to-maintaining-health-and-vitality-11715665613430.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/14/960x540/pexels-n-voitkevich-6942171_1715667451750_1715667474630.jpg",
+        "publishedAt": "2024-05-14T00:51:22Z",
+        "content": "NINE KEYS TO MAINTAINING HEALTH AND VITALITY  \r\nPublished By Moushumi Mahanta | 14 May, 2024 \r\nWith the appropriate strategy, individuals can preserve their health and vitality while navigating the c… [+1550 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Warning Signs of Excessive Salt Intake: Watch Out for These Symptoms - moneycontrol",
+        "description": "Learn about the warning signs of consuming too much salt, which can lead to health issues like high blood pressure, heart diseases, and more. From increased ...",
+        "url": "https://www.youtube.com/watch?v=7V6N2AomvUU",
+        "urlToImage": "https://i.ytimg.com/vi/7V6N2AomvUU/maxresdefault.jpg",
+        "publishedAt": "2024-05-14T00:30:04Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Newsroomodisha.com"
+        },
+        "author": "Newsroom Odisha",
+        "title": "Monkeypox case detected in South Africa - Newsroom Odisha",
+        "description": null,
+        "url": "https://newsroomodisha.com/monkeypox-case-detected-in-south-africa/",
+        "urlToImage": null,
+        "publishedAt": "2024-05-13T22:35:07Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Medical Xpress"
+        },
+        "author": "Science X",
+        "title": "Teenage users of high-THC cannabis varieties twice as likely to experience psychotic episodes - Medical Xpress",
+        "description": "Young individuals between ages 16 and 18 consuming higher-potency cannabis, such as skunk, are twice as likely to have psychotic experiences from ages 19 to 24 compared to those using lower-potency cannabis. That's according to a new University of Bath study …",
+        "url": "https://medicalxpress.com/news/2024-05-teenage-users-high-thc-cannabis.html",
+        "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/cannabis-user.jpg",
+        "publishedAt": "2024-05-13T18:49:21Z",
+        "content": "This article has been reviewed according to Science X's \r\n editorial process\r\n and policies.\r\n Editors have highlighted\r\n the following attributes while ensuring the content's credibility:\r\nfact-chec… [+392 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Easternmirrornagaland.com"
+        },
+        "author": null,
+        "title": "Obesity, Metabolic Syndrome Raises Breast Cancer-Related Death Risks — Study - Eastern Mirror",
+        "description": "NEW DELHI — A higher score of metabolic syndrome (MetS), defined as being obese along with high blood pressure, elevated blood sugar, or abnormal cholesterol,",
+        "url": "https://easternmirrornagaland.com/obesity-metabolic-syndrome-raises-breast-cancer-related-death-risks-study/",
+        "urlToImage": "https://easternmirrornagaland.com/wp-content/uploads/2024/05/bfa92b81660a4a50d7a006bba58bafb8.jpg",
+        "publishedAt": "2024-05-13T17:35:29Z",
+        "content": "NEW DELHI A higher score of metabolic syndrome (MetS), defined as being obese along with high blood pressure, elevated blood sugar, or abnormal cholesterol, can raise mortality risk among women suffe… [+1469 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "msnNOW"
+        },
+        "author": null,
+        "title": "8 vegetarian foods with more protein than eggs - MSN",
+        "description": null,
+        "url": "https://www.msn.com/en-in/health/nutrition/8-vegetarian-foods-with-more-protein-than-eggs/ss-BB1miLhy",
+        "urlToImage": null,
+        "publishedAt": "2024-05-13T17:19:41Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "India TV News"
+        },
+        "author": "Muskan Gupta",
+        "title": "Just 3 night shifts can increase risk of diabetes, obesity: Study - India TV News",
+        "description": "A new study reveals an alarming link, just three consecutive night shifts heighten the risk of diabetes and obesity. Prioritise sleep and health to mitigate potential consequences.",
+        "url": "https://www.indiatvnews.com/health/just-3-night-shifts-can-increase-risk-of-diabetes-obesity-study-2024-05-13-931174",
+        "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/05/befunky-collage-2024-05-13t211335-1715615018.jpg",
+        "publishedAt": "2024-05-13T15:44:39Z",
+        "content": "In our fast-paced world, many industries rely on night shifts to keep operations running smoothly around the clock. However, a recent study conducted by researchers from Washington State University i… [+2776 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Luke Coutinho Reveals the Key to Mental & Physical Health: Prioritizing Sleep | The Medicine Box - CNBC-TV18",
+        "description": "\"We tend to prioritize what we value,\" Coutinho states. While we value work, family time, and entertainment, sleep often takes a backseat. This pattern start...",
+        "url": "https://www.youtube.com/watch?v=QcqFW6LB2tk",
+        "urlToImage": "https://i.ytimg.com/vi/QcqFW6LB2tk/maxresdefault.jpg",
+        "publishedAt": "2024-05-13T14:00:07Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "DNA India"
+        },
+        "author": "Jaisal Kaur",
+        "title": "Tasty and healthy Indian dishes to manage high blood pressure - DNA India",
+        "description": "Tasty and healthy Indian dishes to manage high blood pressure",
+        "url": "https://www.dnaindia.com/web-stories/lifestyle/tasty-and-healthy-indian-dishes-to-manage-high-blood-pressure-1715607128409",
+        "urlToImage": null,
+        "publishedAt": "2024-05-13T13:49:49Z",
+        "content": "May 13, 2024, 07:19 PM IST"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "WSJ",
+        "title": "What your ‘heart age’ says about your health | Mint - Mint",
+        "description": "Do you need to know your heart age? A growing crop of tools will estimate it for you.",
+        "url": "https://www.livemint.com/special-report/what-your-heart-age-says-about-your-health-11715601315225.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/13/1600x900/im-958432_1715601319099_1715601548457.jpg",
+        "publishedAt": "2024-05-13T13:30:13Z",
+        "content": "More online calculators, wearable devices and medical tests are attempting to estimate your hearts age. The companies and organizations behind the tools say that having insight into your heart health… [+5766 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Yoga: Here's How Performing Surya Namaskar Daily Can Boost Your Health - NDTV",
+        "description": "In this article, we share various ways in which performing Surya Namaskar can boost your health.",
+        "url": "https://www.ndtv.com/health/yoga-heres-how-performing-surya-namaskar-daily-can-boost-your-health-5654639",
+        "urlToImage": "https://c.ndtvimg.com/2020-05/6oo4v3c8_yoga_625x300_08_May_20.jpg",
+        "publishedAt": "2024-05-13T13:18:29Z",
+        "content": "Surya Namaskar stimulates the lymphatic system, which plays a crucial role in eliminating toxins\r\nYoga offers a wide range of benefits, including improved flexibility, strength, balance, cardiovascul… [+3677 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "India TV News"
+        },
+        "author": "Muskan Gupta",
+        "title": "5 vegetarian sources of Vitamin B12 - India TV News",
+        "description": "Discover 5 vegetarian sources rich in Vitamin B12 to support your health. From fortified plant-based foods to nutritional yeast, explore natural options for your dietary needs. at India TV News",
+        "url": "https://www.indiatvnews.com/web-stories/lifestyle/5-vegetarian-sources-of-vitamin-b12-2024-05-13-931155",
+        "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1080_-/2024/05/befunky-collage-2024-05-13t184032-1715605836.jpg",
+        "publishedAt": "2024-05-13T13:15:49Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "Neha Yadav",
+        "title": "5 common symptoms of dengue to watch out for - Hindustan Times",
+        "description": "5 common symptoms of dengue to watch out for",
+        "url": "https://www.hindustantimes.com/web-stories/lifestyle/5-common-symptoms-of-dengue-to-watch-out-for-101715601563550.html",
+        "urlToImage": null,
+        "publishedAt": "2024-05-13T13:15:12Z",
+        "content": "By Neha YadavPublished May 13, 2024\r\nHindustan TimesLifestylePhoto Credits: Pexels"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Down To Earth Magazine"
+        },
+        "author": null,
+        "title": "Kerala is on high alert as West Nile Virus cases reported from Kozhikode, Thrissur, Malappuram - Down To Earth Magazine",
+        "description": "No need for people to panic as Kerala has been experiencing the presence of the virus since 2011 and is completely prepared to cope with any critical situation, says state health minister",
+        "url": "https://www.downtoearth.org.in/video/health/kerala-is-on-high-alert-as-west-nile-virus-cases-reported-from-kozhikode-thrissur-malappuram-96129",
+        "urlToImage": "https://i.ytimg.com/vi/UNIahpfN50g/hqdefault.jpg",
+        "publishedAt": "2024-05-13T13:02:05Z",
+        "content": "No need for people to panic as Kerala has been experiencing the presence of the virus since 2011 and is completely prepared to cope with any critical situation, says state health ministerThe West Nil… [+2727 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "India Today"
+        },
+        "author": "Sonali Acharjee",
+        "title": "Why India has a vital role in Parkinson’s Disease research - India Today",
+        "description": "Rising life expectancy in India and its ageing population are contributing to a higher burden of the disease",
+        "url": "https://www.indiatoday.in/india-today-insight/story/why-india-has-a-vital-role-in-parkinsons-disease-research-2538636-2024-05-13",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/health-13483381-16x9_0.jpg?VersionId=BeoF1NPT3Evc7ieOTECdbMkXLUmuV183",
+        "publishedAt": "2024-05-13T12:50:20Z",
+        "content": "Parkinson’s Disease has no cure. However, various treatment options can manage the symptoms and improve the quality of life of patients. Dr V.P. Singh, chairman, neurosurgery and neurosciences, Medan… [+3099 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "News24online.com"
+        },
+        "author": "News24 Desk",
+        "title": "Top 5 Sunscreens for Summers: Perfect For All Skin Types - News24",
+        "description": "Top 5 Sunscreens for Summers: Perfect For All Skin Types",
+        "url": "https://news24online.com/web-stories/top-5-sunscreens-for-summers-perfect-for-all-skin-types/",
+        "urlToImage": "https://news24online.com/wp-content/uploads/2024/05/cropped-image_0ff933.png",
+        "publishedAt": "2024-05-13T12:05:40Z",
+        "content": "Using sunscreen offers numerous benefits, including reducing the risk of skin cancer, preventing premature aging, protecting against sunburn, and reducing the appearance of hyperpigmentation."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "News-Medical.Net"
+        },
+        "author": "Pooja Toshniwal Paharia",
+        "title": "Wearable biosensors with skin interfaces for newborn and neonatal health monitoring - News-Medical.Net",
+        "description": "Recent improvements in newborn wearable systems, concentrating on skin-interfaced wearables for physiological monitoring across many branches.",
+        "url": "https://www.news-medical.net/news/20240513/Wearable-biosensors-with-skin-interfaces-for-newborn-and-neonatal-health-monitoring.aspx",
+        "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_779625_17156016333721325.jpg",
+        "publishedAt": "2024-05-13T12:03:00Z",
+        "content": "In a recent review published in Communications Materials, researchers reviewed recent improvements in newborn wearable systems, concentrating on skin-interfaced wearables for physiological monitoring… [+5895 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "What to know this World Asthma Day - CBS New York",
+        "description": "Dr. Nidhi Kumar is On Call for CBS New York to talk about some of the common misconceptions around asthma, as well as the symptoms and treatment options.",
+        "url": "https://www.youtube.com/watch?v=0AmDuXyw0Zg",
+        "urlToImage": "https://i.ytimg.com/vi/0AmDuXyw0Zg/maxresdefault.jpg",
+        "publishedAt": "2024-05-13T11:45:39Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "DNA India"
+        },
+        "author": "Jaisal Kaur",
+        "title": "Cooling seeds that help fight summer heat - DNA India",
+        "description": "Cooling seeds that help fight summer heat",
+        "url": "https://www.dnaindia.com/web-stories/lifestyle/cooling-seeds-that-help-fight-summer-heat-1715597297028",
+        "urlToImage": null,
+        "publishedAt": "2024-05-13T11:01:33Z",
+        "content": "May 13, 2024, 04:31 PM IST"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "DNA India"
+        },
+        "author": "Varnika Srivastava",
+        "title": "7 health benefits of eating Ivy gourd (Kundru) - DNA India",
+        "description": "Here are 7 health benefits of eating Ivy gourd (Kundru)",
+        "url": "https://www.dnaindia.com/web-stories/health/7-health-benefits-of-eating-ivy-gourd-1715594241319",
+        "urlToImage": null,
+        "publishedAt": "2024-05-13T10:23:23Z",
+        "content": "May 13, 2024, 03:53 PM IST"
+      }
+    ]
+  }

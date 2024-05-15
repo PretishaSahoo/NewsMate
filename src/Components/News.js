@@ -6,56 +6,114 @@ import PropTypes from 'prop-types';
 import InfiniteScroll from 'react-infinite-scroll-component';
 import defaultImage from './default.png';
 
+import general from '../sampleJSON/general.json'
+import business from '../sampleJSON/business.json'
+import entertainment from '../sampleJSON/entertainment.json'
+import health from '../sampleJSON/health.json'
+import science from '../sampleJSON/science.json'
+import sports from '../sampleJSON/sports.json'
+import technology from '../sampleJSON/technology.json'
+
+
 export default function News(props) {
   const [articles, setArticles] = useState([]);
   const [loading, setLoading] = useState(true);
   const [page, setPage] = useState(1);
   const [totalResults, setTotalResults] = useState(0);
 
-useEffect(() => {
-  setLoading(true);
-  const apiUrl = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=1&pageSize=${props.pageSize}`;
-  
-  fetch(apiUrl)
-    .then((response) => {
-      if (!response.ok) {
-        throw new Error('Network response was not ok');
-      }
-      return response.json();
-    })
-    .then((data) => {
-      setArticles(data.articles);
-      setTotalResults(data.totalResults);
-      setLoading(false);
-    })
-    .catch((error) => {
-      console.error('Error fetching data:', error);
-      setLoading(false);
-    });
-  
-  document.title = `NewsMate-${props.category}`;
-}, [props.country, props.category, props.apiKey, props.pageSize]);
+  /*useEffect(() => {
+    setLoading(true);
+    const apiUrl = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=1&pageSize=${props.pageSize}`;
+    fetch(apiUrl)
+      .then((response) => response.json())
+      .then((data) => {
+        setArticles(data.articles);
+        setTotalResults(data.totalResults);
+        setLoading(false);
+      })
+      .catch((error) => {
+        console.error('Error fetching data:', error);
+        setLoading(false);
+      });
+    document.title = `NewsMate-${props.category}`;
+  }, [props.country, props.category, props.apiKey, props.pageSize]);
 
-const fetchMoreData = () => {
-  const nextPage = page + 1;
-  const apiUrl = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${nextPage}&pageSize=${props.pageSize}`;
+  const fetchMoreData = () => {
+    const apiUrl = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page + 1}&pageSize=${props.pageSize}`;
+    setPage(page + 1);
+    fetch(apiUrl)
+      .then((response) => response.json())
+      .then((data) => {
+        const newArticles = articles.concat(data.articles);
+        setArticles(newArticles);
+        setPage(page + 1);
+      })
+      .catch((error) => {
+        console.error('Error fetching data:', error);
+      });
+  };
+ */
+
+  const fetchMoreData = () => {
+    // Calculate the index range for the next page
+    const startIndex = (page - 1) * props.pageSize;
+    const endIndex = startIndex + props.pageSize;
   
-  fetch(apiUrl)
-    .then((response) => {
-      if (!response.ok) {
-        throw new Error('Network response was not ok');
-      }
-      return response.json();
-    })
-    .then((data) => {
-      setArticles((prevArticles) => [...prevArticles, ...data.articles]);
-      setTotalResults(data.totalResults);
-      setPage(nextPage);
-    })
-    .catch((error) => {
-      console.error('Error fetching more data:', error);
-    });
-};
+    // Get the articles for the next page based on the calculated range
+    const nextArticles = articles.slice(startIndex, endIndex);
+  
+    // Update the page number
+    setPage(page + 1);
+  
+    // Append the next articles to the existing articles
+    setArticles([...articles, ...nextArticles]);
+  };
+  
+
+  const setArticlesByCategory = () => {
+    switch (props.category) {
+      case 'general':
+        setArticles(general.articles);
+        setTotalResults(general.articles.length);
+        break;
+      case 'business':
+        setArticles(business.articles);
+        setTotalResults(business.articles.length);
+        break;
+      case 'entertainment':
+        setArticles(entertainment.articles);
+        setTotalResults(entertainment.articles.length);
+        break;
+      case 'sports':
+        setArticles(sports.articles);
+        setTotalResults(sports.articles.length);
+        break;
+      case 'health':
+        setArticles(health.articles);
+        setTotalResults(health.articles.length);
+        break;
+      case 'technology':
+        setArticles(technology.articles);
+        setTotalResults(technology.articles.length);
+        break;
+      case 'science':
+        setArticles(science.articles);
+        setTotalResults(science.articles.length);
+        break;
+      default:
+        // Set default articles if category doesn't match
+        setArticles(general.articles);
+        setTotalResults(general.articles.length);
+        break;
+    }
+  };
+
+  useEffect(() => {
+    setLoading(true);
+    setArticlesByCategory();
+    setLoading(false);
+  }, [props.category]);
+  
 
 
 
