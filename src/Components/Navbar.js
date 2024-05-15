@@ -41,6 +41,7 @@ export default function Navbar(){
                   </ul>
                 </div>
               </div>
+             <p  className="p-2"style={{color:"white"}}>Created by - Pretisha_Sahoo</p>
             </nav>
       </div>
       )
